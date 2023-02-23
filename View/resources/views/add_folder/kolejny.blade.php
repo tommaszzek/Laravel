@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pl">
+<html lang="">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <H1>Strona Powitalana została zamieniona</H1>
+    
+    <p>{{$zm_1}}</p>
+    <p>{{$zm_2}}</p>
 </body>
 </html>

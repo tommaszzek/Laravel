@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <H1>Strona Powitalana została zamieniona</H1>
+    <h1>{{$zm_cos}}</h1>
+    
+    
 </body>
 </html>
